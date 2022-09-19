@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+}
+
+.nav{
+   background-color: burlywood ;
+   color:cornflowerblue
+}
+
+.container{
+    max-width: 1000px;
+}
+.container>*{
+    display: inline-block;
+}
+.list>div{
+    display: inline-block;
+}
